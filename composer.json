@@ -1,0 +1,6 @@
+{
+    "require": {
+        "slims/pdf-factory": "dev-main",
+        "dompdf/dompdf": "^2.0"
+    }
+}
