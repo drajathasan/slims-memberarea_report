@@ -1,6 +1,7 @@
 # Hai 👋
-
 Plugin ini merupakan modifikasi laporan data peminjaman di sisi memberarea, yang semula berbentuk html menjadi Pdf agar mudah dibuka diberbagai platform.
+
+!['preview'](./preview.png)
 
 ## Lisensi
 Dibawah [GPL-v3](https://www.google.com/search?q=apa+itu+gplv3)
